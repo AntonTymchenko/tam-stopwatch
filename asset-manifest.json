@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tam-stopwatch/static/css/main.46a3c4ea.chunk.css",
+    "main.js": "/tam-stopwatch/static/js/main.ee2758d6.chunk.js",
+    "main.js.map": "/tam-stopwatch/static/js/main.ee2758d6.chunk.js.map",
+    "runtime-main.js": "/tam-stopwatch/static/js/runtime-main.d69207ed.js",
+    "runtime-main.js.map": "/tam-stopwatch/static/js/runtime-main.d69207ed.js.map",
+    "static/js/2.0bc4676f.chunk.js": "/tam-stopwatch/static/js/2.0bc4676f.chunk.js",
+    "static/js/2.0bc4676f.chunk.js.map": "/tam-stopwatch/static/js/2.0bc4676f.chunk.js.map",
+    "index.html": "/tam-stopwatch/index.html",
+    "static/css/main.46a3c4ea.chunk.css.map": "/tam-stopwatch/static/css/main.46a3c4ea.chunk.css.map",
+    "static/js/2.0bc4676f.chunk.js.LICENSE.txt": "/tam-stopwatch/static/js/2.0bc4676f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d69207ed.js",
+    "static/js/2.0bc4676f.chunk.js",
+    "static/css/main.46a3c4ea.chunk.css",
+    "static/js/main.ee2758d6.chunk.js"
+  ]
+}
