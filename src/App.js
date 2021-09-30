@@ -2,7 +2,6 @@ import "./App.css";
 import React, { useState } from "react";
 import Display from "./components/Display";
 import BtnDisplay from "./components/BtnDisplay";
-import { interval } from "rxjs";
 
 function App() {
   const [time, setTime] = useState({ ms: 0, s: 0, m: 0, h: 0 });
